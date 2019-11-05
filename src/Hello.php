@@ -17,6 +17,6 @@ class Hello
 
     public function hello()
     {
-        return 'Hello '.$this->name.'!';
+        return 'Hello '.$this->name.'!!!';
     }
 }
